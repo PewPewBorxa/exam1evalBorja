@@ -8,5 +8,5 @@ jobs:
       - checkout
       
       - run:
-          name: run1
+          name: Único run
           command: echo Este es el primer y único run
