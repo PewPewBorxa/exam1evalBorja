@@ -5,7 +5,6 @@ issueConfigs:
 - content:
 # Example 1: Bug report template
   - "Describe the bug"
-  - "To Reproduce"
   - "Expected behavior"
 # The issue is judged to be legal if it includes all keywords from any of these two configs.
 # Or it will be closed by the app.
